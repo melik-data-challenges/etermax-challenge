@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data_analyst_exercise_dataset.csv
